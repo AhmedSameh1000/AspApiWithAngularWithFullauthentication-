@@ -1,0 +1,72 @@
+<form
+  method="post"
+  [formGroup]="newProductForm"
+  enctype="multipart/form-data"
+  class="p-5"
+>
+  <div class="row">
+    <h2 class="text-primary">
+      Update This Product
+    </h2>
+    <div>
+      <div class="mb-3">
+        <label>Name</label>
+        <input
+          [(ngModel)]="product.name"
+          formControlName="Name"
+          class="form-control"
+        />
+      </div>
+
+      <div class="mb-3">
+        <label>Quantity</label>
+        <input
+          [(ngModel)]="product.quantity"
+          formControlName="Quantity"
+          class="form-control"
+        />
+      </div>
+    </div>
+  </div>
+  <div class="mt-2">
+    <label>Price</label>
+    <input
+      formControlName="Price"
+      [(ngModel)]="product.price"
+      class="form-control"
+    />
+  </div>
+  <div class="mt-2">
+    <label>Select Image</label>
+    <input class="form-control" type="file" />
+  </div>
+
+  <div class="mb-3 col-sm-6 mt-2">
+    <select formControlName="CategoryId" class="form-select">
+      <option *ngFor="let item of AllCategories" [value]="item.id">
+        {{item.name}}
+      </option>
+    </select>
+  </div>
+  <div class="mb-3 col-sm-6">
+    <select formControlName="BrandId" class="form-select">
+      <option
+        *ngFor="let item of AllBrands"
+        [selected]="item.id==Data"
+        value="{{item.id}}"
+      >
+        {{item.name}}
+      </option>
+    </select>
+  </div>
+
+  <div class="row justify-content-center gap-3">
+    <button (click)="Update()" type="submit" class="col-4 btn btn-primary">
+      <i class="fa-solid fa-plus me-1"></i>
+      Update
+    </button>
+    <button matDialogClose class="col-4 btn btn-secondary">
+      <i class="fa-solid fa-right-from-bracket me-1"></i> Close
+    </button>
+  </div>
+</form>

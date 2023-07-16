@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "66hLvLXzeTd7n+HDhBvSUQ3uvdGkXk9wUvRpxoSAkqE=",
+  "Source": "JWTApi",
+  "BasePath": "_content/JWTApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "JWTApi\\wwwroot",
+      "Source": "JWTApi",
+      "ContentRoot": "C:\\Users\\Ahmed\\Desktop\\ApiJwt-master\\JWT\\wwwroot\\",
+      "BasePath": "_content/JWTApi",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Ahmed\\Desktop\\ApiJwt-master\\JWT\\wwwroot\\images\\Products\\fdd413ce-2b18-4255-948c-079b0cc2fa75.jpg",
+      "SourceId": "JWTApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Ahmed\\Desktop\\ApiJwt-master\\JWT\\wwwroot\\",
+      "BasePath": "_content/JWTApi",
+      "RelativePath": "images/Products/fdd413ce-2b18-4255-948c-079b0cc2fa75.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\Products\\fdd413ce-2b18-4255-948c-079b0cc2fa75.jpg"
+    }
+  ]
+}

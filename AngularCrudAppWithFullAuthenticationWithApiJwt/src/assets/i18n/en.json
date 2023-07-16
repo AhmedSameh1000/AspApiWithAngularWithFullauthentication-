@@ -1,0 +1,12 @@
+{
+  "genral": {
+    "loading": "loading",
+    "create": "Create",
+    "update": "Update",
+    "delete": "Delete",
+    "close": "Close",
+    "logout": "Log Out",
+    "login": "Log In",
+    "register": "Register"
+  }
+}

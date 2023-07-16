@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "Hash": "kRzoQ8ASsZaK3lOpnoWzGSkJuGzjKAuiwsyR0yI0Lxs=",
+  "Source": "JWTApi",
+  "BasePath": "_content/JWTApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "JWTApi\\wwwroot",
+      "Source": "JWTApi",
+      "ContentRoot": "C:\\Users\\Ahmed\\Desktop\\ApiJwt-master - Copy\\JWT\\wwwroot\\",
+      "BasePath": "_content/JWTApi",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Ahmed\\Desktop\\ApiJwt-master - Copy\\JWT\\wwwroot\\images\\Products\\2469564e-e60c-4d4e-9f3f-4948e55d5377.jpg",
+      "SourceId": "JWTApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Ahmed\\Desktop\\ApiJwt-master - Copy\\JWT\\wwwroot\\",
+      "BasePath": "_content/JWTApi",
+      "RelativePath": "images/Products/2469564e-e60c-4d4e-9f3f-4948e55d5377.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\Products\\2469564e-e60c-4d4e-9f3f-4948e55d5377.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Ahmed\\Desktop\\ApiJwt-master - Copy\\JWT\\wwwroot\\images\\Products\\8f3caafa-72d1-4ada-ab4e-6405563545b3.jpg",
+      "SourceId": "JWTApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Ahmed\\Desktop\\ApiJwt-master - Copy\\JWT\\wwwroot\\",
+      "BasePath": "_content/JWTApi",
+      "RelativePath": "images/Products/8f3caafa-72d1-4ada-ab4e-6405563545b3.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\Products\\8f3caafa-72d1-4ada-ab4e-6405563545b3.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Ahmed\\Desktop\\ApiJwt-master - Copy\\JWT\\wwwroot\\images\\Products\\99c0471e-f5c9-4ff6-9949-71f9b2fcf304.jpg",
+      "SourceId": "JWTApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Ahmed\\Desktop\\ApiJwt-master - Copy\\JWT\\wwwroot\\",
+      "BasePath": "_content/JWTApi",
+      "RelativePath": "images/Products/99c0471e-f5c9-4ff6-9949-71f9b2fcf304.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\Products\\99c0471e-f5c9-4ff6-9949-71f9b2fcf304.jpg"
+    }
+  ]
+}

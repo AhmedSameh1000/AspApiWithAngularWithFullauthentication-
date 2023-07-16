@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "FiSHNfcCbyZRUcXhHTVK2SKBIsULHuJIMLUSGLSKYik=",
+  "Source": "JWTApi",
+  "BasePath": "_content/JWTApi",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "JWTApi\\wwwroot",
+      "Source": "JWTApi",
+      "ContentRoot": "C:\\Users\\Ahmed\\Desktop\\ApiJwt-master - Copy\\JWT\\wwwroot\\",
+      "BasePath": "_content/JWTApi",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}

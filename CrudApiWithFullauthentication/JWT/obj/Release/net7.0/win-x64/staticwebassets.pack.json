@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Ahmed\\Desktop\\ApiJwt-master\\JWT\\wwwroot\\images\\Products\\fdd413ce-2b18-4255-948c-079b0cc2fa75.jpg",
+      "PackagePath": "staticwebassets\\images\\Products\\fdd413ce-2b18-4255-948c-079b0cc2fa75.jpg"
+    },
+    {
+      "Id": "obj\\Release\\net7.0\\win-x64\\staticwebassets\\msbuild.JWTApi.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Release\\net7.0\\win-x64\\staticwebassets\\msbuild.build.JWTApi.props",
+      "PackagePath": "build\\JWTApi.props"
+    },
+    {
+      "Id": "obj\\Release\\net7.0\\win-x64\\staticwebassets\\msbuild.buildMultiTargeting.JWTApi.props",
+      "PackagePath": "buildMultiTargeting\\JWTApi.props"
+    },
+    {
+      "Id": "obj\\Release\\net7.0\\win-x64\\staticwebassets\\msbuild.buildTransitive.JWTApi.props",
+      "PackagePath": "buildTransitive\\JWTApi.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
